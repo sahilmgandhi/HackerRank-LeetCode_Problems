@@ -1,0 +1,1 @@
+Regex_Pattern = r'^([\D]{1}[^aeiou]{1}[^bcDF]{1}[\S]{1}[^AEIOU]{1}[^\.\,]{1})$' # Do not delete 'r'.
